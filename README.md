@@ -21,7 +21,7 @@ You can open the deployed application directly:
 The delivery form includes location-related fields and a map. If you use the map's location feature, your browser may ask you to allow location access. You can enter an address manually when appropriate.
 
 ### For sellers
-<img src="seller-page.png" alt="MakanApa Buyer Page" width="800">
+<img src="seller-page.png.png" alt="MakanApa Buyer Page" width="800">
 1. Open the [MakanApa seller page](https://makan-apa-zeta.vercel.app/makanapaSeller.html).
 2. Set up seller details if prompted.
 3. Use the seller interface to participate in the food-request and offer workflow.
