@@ -10,6 +10,7 @@ You can open the deployed application directly:
 ## How to Use MakanApa
 
 ### For buyers
+![MakanApa Buyer Page](screenshots/buyer-page.png)
 1. Open the [MakanApa buyer page](https://makan-apa-zeta.vercel.app/).
 2. Set up your buyer details if the page asks for your name and phone number.
 3. Type what you are looking for in the food request or chat-style input. For example, describe the kind of food you want or any preferences you have.
