@@ -10,7 +10,7 @@ You can open the deployed application directly:
 ## How to Use MakanApa
 
 ### For buyers
-![MakanApa Buyer Page](screenshots/buyer-page.png)
+<img src="buyer-page.png" alt="MakanApa Buyer Page" width="800">
 1. Open the [MakanApa buyer page](https://makan-apa-zeta.vercel.app/).
 2. Set up your buyer details if the page asks for your name and phone number.
 3. Type what you are looking for in the food request or chat-style input. For example, describe the kind of food you want or any preferences you have.
@@ -21,6 +21,7 @@ You can open the deployed application directly:
 The delivery form includes location-related fields and a map. If you use the map's location feature, your browser may ask you to allow location access. You can enter an address manually when appropriate.
 
 ### For sellers
+<img src="seller-page.png" alt="MakanApa Buyer Page" width="800">
 1. Open the [MakanApa seller page](https://makan-apa-zeta.vercel.app/makanapaSeller.html).
 2. Set up seller details if prompted.
 3. Use the seller interface to participate in the food-request and offer workflow.
@@ -180,4 +181,4 @@ The Week 6 Docker evidence report records that the container ran successfully an
 
 ---
 
-MakanApa makes food discovery more convenient by bringing the buyer and seller experience into one web application.
+MakanApa makes food discovery more convenient by bringing the buyer and seller experience into one web application. 
