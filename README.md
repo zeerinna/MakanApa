@@ -74,7 +74,7 @@ docker build -t group08/makanapa:week6 .
 
 For the current public Dockerfile configuration (Nginx listens on container port `8080`):
 ```bash
-docker run -d --name makanapa-app -p 8080:8080 group08/makanapa:week6
+docker run -d -p 8080:8080 --name makanapa-app group08/makanapa:week6
 ```
 
 If your Dockerfile has been changed so that Nginx listens on container port `80`, as described in the Week 6 evidence report, use:
